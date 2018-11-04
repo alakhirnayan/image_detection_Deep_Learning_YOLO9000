@@ -4,6 +4,7 @@ In case the weight file cannot be found,
 I uploaded some of mine [here](https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU), 
 which include `yolo-full` and `yolo-tiny` of v1.0, `tiny-yolo-v1.1` of v1.1 and `yolo`, `tiny-yolo-voc` of v2.
 
+sample image is in here: http://i.imgur.com/EyZZKAA.gif
 
 ## Dependencies
 
@@ -27,3 +28,4 @@ You can choose _one_ of the following three ways to get started with darkflow.
     ```
     pip install .
     ```
+Credited By AL-AKHIR NAYAN
