@@ -28,4 +28,4 @@ You can choose _one_ of the following three ways to get started with darkflow.
     ```
     pip install .
     ```
-Credited By AL-AKHIR NAYAN
+
